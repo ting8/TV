@@ -2,3 +2,4 @@
 标题〖我是远程标题〗
 内容〔我是内容〕
 链接[www.baidu.com]
+图片{http://i.juting.vip/iocn.png}
